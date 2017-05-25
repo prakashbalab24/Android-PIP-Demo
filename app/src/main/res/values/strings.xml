@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Android O</string>
+    <string name="enter_pip_mode">Enter PIP Mode</string>
+    <string name="hello_from_pip_mode">Hello from PIP Mode</string>
+</resources>
